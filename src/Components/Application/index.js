@@ -96,7 +96,7 @@ export default class Application extends Component {
                 showLineItemsState={showLineItems}
                 historyLineState={showHisory}
                 showHistoryOnChange={this.showHistoryOnChange}
-                total={expandMore ? "Total: $10,000" : ""}
+                total={expandMore ? "$10,000" : ""}
               />
               <div
                 className={classNames({

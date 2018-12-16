@@ -31,7 +31,9 @@ export default class TableRowButtons extends Component {
         >
           History
         </div>
-        <div className="ml-auto total-tableRowButton p-2 bd-highlight">{total}</div>
+        <div className="ml-auto total-tableRowButton p-2 bd-highlight">
+          {total ? <div className="total"> Total {total}</div> : ""}
+        </div>
       </div>
     );
   }

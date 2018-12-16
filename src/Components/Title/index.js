@@ -5,6 +5,8 @@ export default props => {
   let { title, expandMore } = props;
   return (
     <div style={{ padding: "0px" }} className="container">
+      <div className="title-customer-table">vendor</div>
+
       <div className="title">{title}</div>
       {expandMore ? null : (
         <div style={{ color: "green" }}>

@@ -1,0 +1,18 @@
+.title-customer-table {
+	text-transform: uppercase;
+	color: grey;
+	font-size: 8px;
+  	position: relative;
+  	    margin-bottom: 10px;
+}
+
+.container-for-customer-table{
+	position: relative;
+	left: 2em;
+	display: inline-block;
+}
+
+
+.total-customer-table {
+  font-size: 1.5em;
+}

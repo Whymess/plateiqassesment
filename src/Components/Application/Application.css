@@ -1,0 +1,42 @@
+.btn-primary-custom {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: black;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 1px solid grey;
+  border-radius: 40px;
+  background: transparent;
+  transition: all 0.3s ease 0s;
+}
+.invoice-image {
+  width: 100%;
+  top: 1em;
+  position: relative;
+}
+.image-section {
+  background-color: #3B576E;
+}
+
+.secondRow {
+	align-items: center;
+}
+
+.invoice-main {
+  padding: 0px;
+  background-color: white;
+}
+
+.container-for-history-table {
+  height: 500px;
+  background-color: #f8f9fa;
+}
+
+.title-for-activity {
+    font-weight: bolder;
+    top: 3em;
+    position: relative;
+    font-weight: bolder;
+}
+
+  

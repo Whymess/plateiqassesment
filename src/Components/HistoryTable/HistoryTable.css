@@ -1,0 +1,32 @@
+.Day-history {
+	font-weight: bold;
+}
+
+.item-container {
+	margin-left: 1em;
+}
+
+.history-row {
+	align-items: center;
+}
+
+.details-about-flag {
+	left: 2em;
+	position: relative;
+}
+
+.red-dot {
+	top: 10px;
+	position: relative;
+	height: 25px;
+	width: 25px;
+	background-color: firebrick;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+.flagged-by-history {
+	color: firebrick;
+	left: 10px;
+	position: relative;
+}

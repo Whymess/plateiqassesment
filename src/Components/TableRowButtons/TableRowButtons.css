@@ -1,0 +1,8 @@
+.active-history-btn, .Line-Items-btn {
+	border-bottom: 2px solid blue;
+}
+
+.total-tableRowButton {
+	    margin-bottom: 15px;
+    margin-right: 2em;
+}

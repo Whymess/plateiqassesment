@@ -1,0 +1,7 @@
+.expand-more-btn {
+	border-radius: 50%;
+	outline: none;
+	cursor: pointer;
+}
+
+.expand-more-btn:focus {outline:0;}

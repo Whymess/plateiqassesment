@@ -88,7 +88,7 @@ function CustomerDataTable(props) {
                 <div className="data-customer-table">July 09, 2017</div>
               </div>
             </TableCell>
-            <TableCell className={classes.row} component="th" scope="row">
+            <TableCell  style={{ border: "none" }} className={classes.row} component="th" scope="row">
               <div className="container-for-customer-table">
                 <div className="title-customer-table">due date</div>
                 <div className="data-customer-table">Sep 14, 2017</div>

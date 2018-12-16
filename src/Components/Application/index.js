@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import placeholderImage from '../../Assets/Images/Sample-Invoice-Template-image.png'
+import placeholderImage from "../../Assets/Images/Sample-Invoice-Template-image.png";
 
 import classNames from "classnames";
 import {
@@ -51,9 +51,7 @@ export default class Application extends Component {
         <div className="container">
           <div className="row">
             <div className="col image-section">
-
-              <img alt="" className="invoice-image" src={placeholderImage}/>
-
+              <img alt="" className="invoice-image" src={placeholderImage} />
             </div>
             <div className="col invoice-main">
               <div className="d-flex bd-highlight mb-3">
